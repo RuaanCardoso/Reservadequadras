@@ -1,22 +1,9 @@
+
 # Sistema de Reserva de Quadras
 
-App simples em Next.js com TypeScript e Tailwind para reserva de quadras esportivas.
+App simples feito com Next.js + TypeScript para agendamento de quadras esportivas.
+- Escolha a data
+- Veja horários por quadra
+- Reserve com nome, adversário, classe e senha
 
-## Scripts
-
-- `npm install` — instala as dependências
-- `npm run dev` — inicia em modo desenvolvimento
-- `npm run build && npm start` — build e execução
-
-## Deploy
-
-Pode ser feito pelo GitHub ou diretamente na Vercel.
-
-## Funcionalidades
-
-- Visualização das quadras e horários
-- Reserva com nome, adversário, classe
-- Cancelamento com senha
-
----
-Feito para funcionar 100% como app no navegador (layout responsivo).
+Deploy recomendado: [Vercel](https://vercel.com)
